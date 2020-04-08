@@ -1,2 +1,1 @@
-pip install pip
-pip install turicreate
+ python -m pip install turicreate
