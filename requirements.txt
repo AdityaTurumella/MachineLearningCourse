@@ -1,1 +1,1 @@
-pip install -U turicreate
+~ $ http https://raw.githubusercontent.com/pradyunsg/get-pip/update-entry-point/get-pip.py | python3.7 - --user
